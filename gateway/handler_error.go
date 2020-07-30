@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/TykTechnologies/tyk/config"
+	"github.com/prakriti07/tyk/config"
 
-	"github.com/TykTechnologies/tyk/headers"
-	"github.com/TykTechnologies/tyk/request"
+	"github.com/prakriti07/tyk/headers"
+	"github.com/prakriti07/tyk/request"
 )
 
 const (
