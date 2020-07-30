@@ -17,11 +17,11 @@ import (
 	"github.com/justinas/alice"
 	"github.com/sirupsen/logrus"
 
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/coprocess"
-	"github.com/TykTechnologies/tyk/storage"
-	"github.com/TykTechnologies/tyk/trace"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/coprocess"
+	"github.com/prakriti07/tyk/storage"
+	"github.com/prakriti07/tyk/trace"
 )
 
 type ChainObject struct {
