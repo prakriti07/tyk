@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/TykTechnologies/tyk/apidef"
+	"github.com/prakriti07/tyk/apidef"
 )
 
 type TestAuth struct {
