@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/TykTechnologies/tyk/headers"
-	"github.com/TykTechnologies/tyk/test"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/headers"
+	"github.com/prakriti07/tyk/test"
+	"github.com/prakriti07/tyk/user"
 	"github.com/jensneuse/graphql-go-tools/pkg/graphql"
 )
 
