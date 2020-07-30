@@ -13,8 +13,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TykTechnologies/tyk/certs"
-	"github.com/TykTechnologies/tyk/config"
+	"github.com/prakriti07/tyk/certs"
+	"github.com/prakriti07/tyk/config"
 
 	"github.com/gorilla/mux"
 	cache "github.com/pmylund/go-cache"
