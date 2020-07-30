@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/TykTechnologies/tyk/request"
-	"github.com/TykTechnologies/tyk/storage"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/request"
+	"github.com/prakriti07/tyk/storage"
+	"github.com/prakriti07/tyk/user"
 )
 
 // RateLimitAndQuotaCheck will check the incoming request and key whether it is within it's quota and
