@@ -4,9 +4,9 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/TykTechnologies/tyk/headers"
+	"github.com/prakriti07/tyk/headers"
 
-	"github.com/TykTechnologies/tyk/regexp"
+	"github.com/prakriti07/tyk/regexp"
 )
 
 // GranularAccessMiddleware will check if a URL is specifically enabled for the key
