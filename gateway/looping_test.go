@@ -8,8 +8,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/TykTechnologies/tyk/test"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/test"
+	"github.com/prakriti07/tyk/user"
 )
 
 func TestLooping(t *testing.T) {
