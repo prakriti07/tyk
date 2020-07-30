@@ -12,9 +12,9 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/TykTechnologies/tyk/test"
+	"github.com/prakriti07/tyk/test"
 
-	"github.com/TykTechnologies/tyk/config"
+	"github.com/prakriti07/tyk/config"
 )
 
 func TestTCPDial_with_service_discovery(t *testing.T) {
