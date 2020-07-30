@@ -8,8 +8,8 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/config"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/config"
 )
 
 var (
