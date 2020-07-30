@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/storage"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/storage"
 )
 
 const (
