@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TykTechnologies/tyk/config"
+	"github.com/prakriti07/tyk/config"
 )
 
 func TestWrapDialerDialContextFunc(t *testing.T) {
