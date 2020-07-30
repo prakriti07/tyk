@@ -24,12 +24,12 @@ import (
 	proxyproto "github.com/pires/go-proxyproto"
 	msgpack "gopkg.in/vmihailenco/msgpack.v2"
 
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/cli"
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/storage"
-	"github.com/TykTechnologies/tyk/test"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/cli"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/storage"
+	"github.com/prakriti07/tyk/test"
+	"github.com/prakriti07/tyk/user"
 )
 
 const defaultListenPort = 8080
