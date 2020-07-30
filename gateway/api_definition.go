@@ -25,12 +25,12 @@ import (
 	"github.com/sirupsen/logrus"
 
 	"github.com/TykTechnologies/gojsonschema"
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/headers"
-	"github.com/TykTechnologies/tyk/regexp"
-	"github.com/TykTechnologies/tyk/rpc"
-	"github.com/TykTechnologies/tyk/storage"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/headers"
+	"github.com/prakriti07/tyk/regexp"
+	"github.com/prakriti07/tyk/rpc"
+	"github.com/prakriti07/tyk/storage"
 )
 
 //const used by cache middleware
