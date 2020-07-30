@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/test"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/test"
 )
 
 var (
