@@ -7,7 +7,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/TykTechnologies/tyk/request"
+	"github.com/prakriti07/tyk/request"
 
 	gql "github.com/jensneuse/graphql-go-tools/pkg/graphql"
 )
