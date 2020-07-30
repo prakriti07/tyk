@@ -7,7 +7,7 @@ package gateway
 import (
 	"errors"
 
-	"github.com/TykTechnologies/tyk/coprocess"
+	"github.com/prakriti07/tyk/coprocess"
 )
 
 func NewPythonDispatcher() (dispatcher coprocess.Dispatcher, err error) {
