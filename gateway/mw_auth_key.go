@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/certs"
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/request"
-	"github.com/TykTechnologies/tyk/signature_validator"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/certs"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/request"
+	"github.com/prakriti07/tyk/signature_validator"
 )
 
 const (
