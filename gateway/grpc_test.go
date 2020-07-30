@@ -15,9 +15,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/test"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/test"
+	"github.com/prakriti07/tyk/user"
 	"golang.org/x/net/http2"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
