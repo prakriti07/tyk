@@ -13,11 +13,11 @@ import (
 
 	"fmt"
 
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/coprocess"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/coprocess"
 
-	python "github.com/TykTechnologies/tyk/dlpython"
+	python "github.com/prakriti07/tyk/dlpython"
 	"github.com/golang/protobuf/proto"
 )
 import (
