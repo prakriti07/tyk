@@ -16,8 +16,8 @@ import (
 	proxyproto "github.com/pires/go-proxyproto"
 	cache "github.com/pmylund/go-cache"
 
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/config"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/config"
 )
 
 const (
