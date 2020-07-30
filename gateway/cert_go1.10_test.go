@@ -16,9 +16,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/TykTechnologies/tyk/certs"
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/test"
+	"github.com/prakriti07/tyk/certs"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/test"
 )
 
 func uploadCertPublicKey(serverCert tls.Certificate) (string, error) {
