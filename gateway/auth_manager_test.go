@@ -4,11 +4,11 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/TykTechnologies/tyk/storage"
+	"github.com/prakriti07/tyk/storage"
 
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/test"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/test"
+	"github.com/prakriti07/tyk/user"
 )
 
 func TestAuthenticationAfterDeleteKey(t *testing.T) {
