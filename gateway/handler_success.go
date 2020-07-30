@@ -13,11 +13,11 @@ import (
 
 	cache "github.com/pmylund/go-cache"
 
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/ctx"
-	"github.com/TykTechnologies/tyk/headers"
-	"github.com/TykTechnologies/tyk/request"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/ctx"
+	"github.com/prakriti07/tyk/headers"
+	"github.com/prakriti07/tyk/request"
+	"github.com/prakriti07/tyk/user"
 )
 
 const (
