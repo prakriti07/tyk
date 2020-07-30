@@ -16,12 +16,12 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/coprocess"
-	"github.com/TykTechnologies/tyk/gateway"
-	"github.com/TykTechnologies/tyk/test"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/coprocess"
+	"github.com/prakriti07/tyk/gateway"
+	"github.com/prakriti07/tyk/test"
+	"github.com/prakriti07/tyk/user"
 )
 
 const (
