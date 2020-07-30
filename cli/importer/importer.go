@@ -11,8 +11,8 @@ import (
 
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/apidef/importer"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/apidef/importer"
 )
 
 const (
