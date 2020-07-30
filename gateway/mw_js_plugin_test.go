@@ -10,16 +10,16 @@ import (
 	"testing"
 	"time"
 
-	"github.com/TykTechnologies/tyk/ctx"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/ctx"
+	"github.com/prakriti07/tyk/user"
 
 	"github.com/sirupsen/logrus"
 	prefixed "github.com/x-cray/logrus-prefixed-formatter"
 
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/config"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/config"
 	logger "github.com/TykTechnologies/tyk/log"
-	"github.com/TykTechnologies/tyk/test"
+	"github.com/prakriti07/tyk/test"
 )
 
 func TestJSVMLogs(t *testing.T) {
