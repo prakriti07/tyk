@@ -29,7 +29,7 @@ echo "goimports check is ok!"
 
 PKGS="$(go list ./...)"
 
-export PKG_PATH=${GOPATH}/src/github.com/TykTechnologies/tyk
+export PKG_PATH=${GOPATH}/src/github.com/prakriti07/tyk
 
 # build Go-plugin used in tests
 go build -o ./test/goplugins/goplugins.so -buildmode=plugin ./test/goplugins || fatal "building Go-plugin failed"
