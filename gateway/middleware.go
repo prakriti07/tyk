@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/TykTechnologies/tyk/headers"
+	"github.com/prakriti07/tyk/headers"
 
 	"github.com/gocraft/health"
 	"github.com/justinas/alice"
@@ -20,12 +20,12 @@ import (
 	"github.com/sirupsen/logrus"
 	"golang.org/x/sync/singleflight"
 
-	"github.com/TykTechnologies/tyk/apidef"
-	"github.com/TykTechnologies/tyk/config"
-	"github.com/TykTechnologies/tyk/request"
-	"github.com/TykTechnologies/tyk/storage"
-	"github.com/TykTechnologies/tyk/trace"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/apidef"
+	"github.com/prakriti07/tyk/config"
+	"github.com/prakriti07/tyk/request"
+	"github.com/prakriti07/tyk/storage"
+	"github.com/prakriti07/tyk/trace"
+	"github.com/prakriti07/tyk/user"
 )
 
 const mwStatusRespond = 666
