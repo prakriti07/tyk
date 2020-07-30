@@ -5,13 +5,13 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/TykTechnologies/tyk/cli/linter"
+	"github.com/prakriti07/tyk/cli/linter"
 
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 
-	"github.com/TykTechnologies/tyk/cli/bundler"
-	"github.com/TykTechnologies/tyk/cli/importer"
-	logger "github.com/TykTechnologies/tyk/log"
+	"github.com/prakriti07/tyk/cli/bundler"
+	"github.com/prakriti07/tyk/cli/importer"
+	logger "github.com/prakriti07/tyk/log"
 )
 
 const (
