@@ -4,14 +4,14 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/TykTechnologies/tyk/apidef"
+	"github.com/prakriti07/tyk/apidef"
 
-	"github.com/TykTechnologies/tyk/headers"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/headers"
+	"github.com/prakriti07/tyk/user"
 
 	gql "github.com/jensneuse/graphql-go-tools/pkg/graphql"
 
-	"github.com/TykTechnologies/tyk/test"
+	"github.com/prakriti07/tyk/test"
 )
 
 func TestGraphQL(t *testing.T) {
