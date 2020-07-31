@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/TykTechnologies/tyk/gateway"
+	"github.com/prakriti07/tyk/gateway"
 )
 
 func main() {
