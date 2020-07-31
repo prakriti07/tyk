@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/TykTechnologies/tyk/ctx"
-	"github.com/TykTechnologies/tyk/headers"
-	"github.com/TykTechnologies/tyk/user"
+	"github.com/prakriti07/tyk/ctx"
+	"github.com/prakriti07/tyk/headers"
+	"github.com/prakriti07/tyk/user"
 )
 
 // MyPluginPre checks if session is NOT present, adds custom header
