@@ -29,13 +29,13 @@ services:
 
 install:
   - if [ "${TRAVIS_CPU_ARCH}" == "arm64" ]; then
-      wget https://github.com/moonjit/moonjit/archive/2.2.0.tar.gz
-      tar -zxvf 2.2.0.tar.gz
-      cd moonjit-2.2.0
-      sudo make -j4
-      sudo make install
-      cd ..
-      rm -rf moonjit-2.2.0 2.2.0.tar.gz
+      wget https://github.com/moonjit/moonjit/archive/2.2.0.tar.gz;
+      tar -zxvf 2.2.0.tar.gz;
+      cd moonjit-2.2.0;
+      sudo make -j4;
+      sudo make install;
+      cd ..;
+      rm -rf moonjit-2.2.0 2.2.0.tar.gz;
     else
       sudo apt-get install libluajit-5.1-dev;
     fi
