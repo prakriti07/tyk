@@ -46,7 +46,7 @@ install:
 
 before_script:
    - if [ "${TRAVIS_CPU_ARCH}" == "arm64" ]; then 
-      if [[ ! -f $CONSUL_DIR/consul ]]; then (mkdir -p "$CONSUL_DIR" && cd $CONSUL_DIR && wget https://releases.hashicorp.com/consul/${CONSUL_VERSION}/consul_${CONSUL_VERSION}_linux_amd64.zip && unzip consul_${CONSUL_VERSION}_linux_amd64.zip); fi
+      if [[ ! -f $CONSUL_DIR/consul ]]; then (mkdir -p "$CONSUL_DIR" && cd $CONSUL_DIR && wget https://releases.hashicorp.com/consul/${CONSUL_VERSION}/consul_${CONSUL_VERSION}_linux_arm64.zip && unzip consul_${CONSUL_VERSION}_linux_arm64.zip); fi
      else
       if [[ ! -f $CONSUL_DIR/consul ]]; then (mkdir -p "$CONSUL_DIR" && cd $CONSUL_DIR && wget https://releases.hashicorp.com/consul/${CONSUL_VERSION}/consul_${CONSUL_VERSION}_linux_amd64.zip && unzip consul_${CONSUL_VERSION}_linux_amd64.zip); fi
      fi
