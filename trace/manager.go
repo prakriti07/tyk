@@ -10,7 +10,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/TykTechnologies/tyk/request"
+	"github.com/prakriti07/tyk/request"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 
