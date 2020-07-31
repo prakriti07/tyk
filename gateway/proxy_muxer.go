@@ -12,7 +12,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/prakriti07/again"
+	"github.com/TykTechnologies/again"
 	"github.com/prakriti07/tyk/config"
 	"github.com/prakriti07/tyk/tcp"
 	proxyproto "github.com/pires/go-proxyproto"
