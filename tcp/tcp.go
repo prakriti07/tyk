@@ -12,7 +12,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	logger "github.com/TykTechnologies/tyk/log"
+	logger "github.com/prakriti07/tyk/log"
 )
 
 var log = logger.Get().WithField("prefix", "tcp-proxy")
