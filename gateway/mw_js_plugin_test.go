@@ -18,7 +18,7 @@ import (
 
 	"github.com/prakriti07/tyk/apidef"
 	"github.com/prakriti07/tyk/config"
-	logger "github.com/TykTechnologies/tyk/log"
+	logger "github.com/prakriti07/tyk/log"
 	"github.com/prakriti07/tyk/test"
 )
 
