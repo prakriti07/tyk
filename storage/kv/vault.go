@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/TykTechnologies/tyk/config"
+	"github.com/prakriti07/tyk/config"
 	"github.com/hashicorp/vault/api"
 )
 
