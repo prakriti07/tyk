@@ -3,7 +3,7 @@ package storage
 import (
 	"testing"
 
-	"github.com/TykTechnologies/tyk/config"
+	"github.com/prakriti07/tyk/config"
 )
 
 func TestRedisClusterGetMultiKey(t *testing.T) {
