@@ -15,7 +15,8 @@ fatal() {
 
 FMT_FILES=$(gofmt -l . | grep -v vendor)
 if [[ -n ${FMT_FILES} ]]; then
-    fatal "Run 'gofmt -w' on these files:\n$FMT_FILES"
+    #fatal "Run 'gofmt -w' on these files:\n$FMT_FILES"
+    gofmt -w ${FMT_FILES}
 fi
 
 echo "gofmt check is ok!"
