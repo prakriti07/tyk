@@ -15,7 +15,7 @@ import (
 
 	"time"
 
-	"github.com/prakriti07/gojsonschema"
+	"github.com/TykTechnologies/gojsonschema"
 	"github.com/prakriti07/tyk/regexp"
 )
 
