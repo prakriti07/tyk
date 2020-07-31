@@ -3,7 +3,7 @@ package kv
 import (
 	"testing"
 
-	"github.com/TykTechnologies/tyk/config"
+	"github.com/prakriti07/tyk/config"
 	"github.com/hashicorp/consul/api"
 )
 
